@@ -1116,3 +1116,7 @@ version = "0.0.4"
 submodule = "extensions/zed"
 path = "extensions/zig"
 version = "0.1.5"
+
+[pylsp]
+submodule = "extensions/pylsp"
+version = "0.0.1"
